@@ -1,2 +1,2 @@
 # Reports
-Report tecnici e analisi di vulnerabilità e test.
+Report di Vulnerability Assessment, PenTest e Cyber Threat Intelligence.

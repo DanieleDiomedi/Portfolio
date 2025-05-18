@@ -1,2 +1,2 @@
 # Labs
-Laboratori pratici su cybersecurity: penetration test, analisi, simulazioni CTF.
+Esercitazioni pratiche divise per settore.

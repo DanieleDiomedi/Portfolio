@@ -1,2 +1,2 @@
 # Notes
-Appunti e riflessioni tecniche raccolte durante lo studio.
+Appunti organizzati per argomento.

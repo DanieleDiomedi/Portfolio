@@ -1,0 +1,22 @@
+# Log files
+*.log
+
+# Output di scansioni e capture
+*.pcap
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backup
+*~

@@ -1,2 +1,2 @@
 # Configurations
-File di configurazione per tool, firewall, VPN e ambienti di test.
+Config files per Linux e Windows.
